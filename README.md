@@ -7,3 +7,5 @@ To run:
 
     npm install express
     node app.js
+
+Now navigate to: http://localhost:3000/ and you will get the local JSON file.
