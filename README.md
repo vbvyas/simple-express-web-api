@@ -8,4 +8,6 @@ To run:
     npm install express
     node app.js
 
-Now navigate to: [http://localhost:3000/](http://localhost:3000/) and you will get the local JSON file.
+Now navigate to: [http://localhost:3000/test](http://localhost:3000/test) and you will get the local JSON file.
+
+Also try: [http://localhost:3000/test/1](http://localhost:3000/test/1).
